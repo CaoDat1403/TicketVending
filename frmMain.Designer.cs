@@ -65,7 +65,6 @@
             this.lblTitle.Size = new System.Drawing.Size(565, 37);
             this.lblTitle.TabIndex = 1;
             this.lblTitle.Text = "Ticket Vending Machine for Public Bus";
-            this.lblTitle.Click += new System.EventHandler(this.lblTitle_Click);
             // 
             // lblDestination
             // 
